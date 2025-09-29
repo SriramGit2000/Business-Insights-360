@@ -1,3 +1,7 @@
+## 🔗 Live Dashboard  
+👉 Explore the full interactive Power BI dashboard here:  
+**https://app.powerbi.com/view?r=eyJrIjoiNjNjMzU5MDUtMGQ5Ni00ZTNhLWI4MzEtNzMzZjY2OGMyNjFmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9**  
+
 # 📊 Business Insights 360 – AtliQ Hardware  
 
 ## 📖 About the Company  
@@ -15,9 +19,9 @@ Its diverse portfolio includes:
 
 ## 🎯 Business Challenge  
 AtliQ faced significant challenges:  
-- ❌ **Latin America failure** – Heavy reliance on intuition and surveys led to poor decision-making.  
-- ⚔️ **Competitive pressure** – Dell leveraged advanced analytics on customer demographics and behavior.  
-- 📉 **Analytical gap** – Reliance on Excel limited decision speed and accuracy.  
+- **Latin America failure** – Heavy reliance on intuition and surveys led to poor decision-making.  
+- **Competitive pressure** – Dell leveraged advanced analytics on customer demographics and behavior.  
+- **Analytical gap** – Reliance on Excel limited decision speed and accuracy.  
 
 **Project Kick-off:** Leadership launched *Business Insights 360* to transition from Excel to **Power BI**, enabling smarter, data-driven decisions across functions.  
 
@@ -116,11 +120,6 @@ AtliQ faced significant challenges:
 
 ---
 
-## 🔗 Live Dashboard  
-👉 Explore the full interactive Power BI dashboard here:  
-**https://app.powerbi.com/view?r=eyJrIjoiNjNjMzU5MDUtMGQ5Ni00ZTNhLWI4MzEtNzMzZjY2OGMyNjFmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9**  
-
----
 
 ## 📌 Conclusion  
 This project demonstrates how **Power BI analytics** can transform business decision-making.  
